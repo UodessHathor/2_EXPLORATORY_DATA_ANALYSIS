@@ -1,6 +1,6 @@
 # Welcome! 2 Exploratory Data Analysis projects are available here 🩵
 
- * **Dating Experiment project** : **"v10_tinder.ipynb"** : based on a famous dating app with a flame 🔥
+ * **Dating Experiment project** with ipynb: **"v10_tinder.ipynb"** : based on a famous dating app with a flame 🔥
  * **Big Data project** with data Databricks: **"Click_Project_Links_3PARTS.txt"** : based on Video Plateform analysis 🎮
 
  - 👇🏽 *Down here you have the full description of both projects from Jedha, hope you enjoy them as did making them* 👇🏽
