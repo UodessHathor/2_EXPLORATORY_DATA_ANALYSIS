@@ -19,7 +19,7 @@ Tinder was launched by Sean Rad at a hackathon held at the Hatch Labs incubator 
 As of 2021, Tinder has recorded more than 65 billion matches worldwide.
 
 
-##@ Project 🚧
+### Project 🚧
 
 The marketing team needs help on a new project. They are experiencing a decrease in the number of matches, and they are trying to find a way to understand **what makes people interested into each other**. 
 
