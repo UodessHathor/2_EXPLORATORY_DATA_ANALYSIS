@@ -1,7 +1,7 @@
 # Welcome! Two EDA projects are available here 🩵
 
  * **Dating Experiment project** with ipynb: *"v10_tinder.ipynb"* : based on a famous dating app with a flame 🔥
- * **Big Data project** with data Databricks: *"Click_Project_Links_3PARTS.txt"* : based on Video Plateform analysis 🎮
+ * **Big Data project** with Databricks: *"Click_Project_Links_3PARTS.txt"* : based on Video Plateform analysis 🎮
 
  - 👇🏽 *Down here : full description of both projects (Jedha school), hope you enjoy them as I did making them* 👇🏽
 
