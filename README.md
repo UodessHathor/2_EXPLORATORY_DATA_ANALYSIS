@@ -9,7 +9,6 @@
 
 # Dating Experiment Project ❤️‍🔥
 
-![Tinder](https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Tinder-Symbole.png=100x200)
 
 ## Company's description 📇
 
